@@ -1,0 +1,28 @@
+{"properties": [
+  {
+    "name": "oauth.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'oauth.clientId'"
+  },
+  {
+    "name": "oauth.clientSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'oauth.clientSecret'"
+  },
+  {
+    "name": "oauth.redirectUris",
+    "type": "java.lang.String",
+    "description": "A description for 'oauth.redirectUris'"
+  },
+  {
+    "name": "oauth.user.name",
+    "type": "java.lang.String",
+    "description": "A description for 'oauth.user.name'"
+  },
+  {
+    "name": "oauth.user.password",
+    "type": "java.lang.String",
+    "description": "A description for 'oauth.user.password'"
+  }
+  
+]}
